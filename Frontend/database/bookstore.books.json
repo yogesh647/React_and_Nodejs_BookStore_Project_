@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "675485527b677e22e1472709"
+  },
+  "name": "comedy book",
+  "title": "If a dog chews shoes whose shoes does he choose?",
+  "price": 0,
+  "category": "Free",
+  "image": "book1.png"
+},
+{
+  "_id": {
+    "$oid": "675485527b677e22e147270a"
+  },
+  "name": "comedy book",
+  "title": "If a dog chews shoes whose shoes does he choose?",
+  "price": 0,
+  "category": "Not",
+  "image": "book2.png"
+},
+{
+  "_id": {
+    "$oid": "675485527b677e22e147270b"
+  },
+  "name": "comedy book",
+  "title": "If a dog chews shoes whose shoes does he choose?",
+  "price": 0,
+  "category": "Free",
+  "image": "book3.png"
+},
+{
+  "_id": {
+    "$oid": "675485527b677e22e147270c"
+  },
+  "name": "comedy book",
+  "title": "If a dog chews shoes whose shoes does he choose?",
+  "price": 0,
+  "category": "Free",
+  "image": "book4.png"
+},
+{
+  "_id": {
+    "$oid": "675485527b677e22e147270d"
+  },
+  "name": "comedy book",
+  "title": "If a dog chews shoes whose shoes does he choose?",
+  "price": 0,
+  "category": "Free",
+  "image": "book5.png"
+}]

@@ -1,0 +1,13 @@
+-------------------------------------------------------------------
+CREATE DATABASE NAME:-bookstore
+CREATE COLLECTIONS(TABLE) NAME:-users and products
+-------------------------------------------------------------------
+
+command use to before run project
+
+--->npm install
+--->npm i mongodb
+--->npm i express
+--->npm i mongoose
+--->npm i nodemon
+--->nodemon index.js(run project)
